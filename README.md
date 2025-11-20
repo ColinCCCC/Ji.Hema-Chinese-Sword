@@ -64,7 +64,7 @@
 
 *所有SLDPRT文件如下：*
 
-- 剑条[blade.SLDPRT](https://github.com/ColinCCCC/Ji.Hema-Chinese-Sword/blob/main/blade.SLDPRT)
+- 剑条 [blade.SLDPRT](https://github.com/ColinCCCC/Ji.Hema-Chinese-Sword/blob/main/blade.SLDPRT)
 
 - 剑柄（半边）[hdl.SLDPRT](https://github.com/ColinCCCC/Ji.Hema-Chinese-Sword/blob/main/hdl.SLDPRT)
 
